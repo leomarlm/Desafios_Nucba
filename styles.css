@@ -1,0 +1,27 @@
+.title {
+    text-align: center;
+}
+
+.title-2 {
+    text-align: center;
+}
+.imagen {
+    height: 200px;
+    width: 200px;
+    border-radius: 50px;
+}
+
+.lista {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.parrafos {
+    text-align: center;
+}
+
+.form-contact {
+    padding: 10px;
+
+    }
+    
